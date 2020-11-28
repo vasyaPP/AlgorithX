@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmX", "AlgorithmX\AlgorithmX.csproj", "{D07DF870-CF4B-4079-B23D-39376463F34C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EightQueens", "EightQueens\EightQueens.csproj", "{0FCC694C-1F10-46C0-8A82-E3191CF940E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D07DF870-CF4B-4079-B23D-39376463F34C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07DF870-CF4B-4079-B23D-39376463F34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07DF870-CF4B-4079-B23D-39376463F34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07DF870-CF4B-4079-B23D-39376463F34C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FCC694C-1F10-46C0-8A82-E3191CF940E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCC694C-1F10-46C0-8A82-E3191CF940E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FCC694C-1F10-46C0-8A82-E3191CF940E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FCC694C-1F10-46C0-8A82-E3191CF940E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
