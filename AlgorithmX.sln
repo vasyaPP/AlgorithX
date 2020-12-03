@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmX", "AlgorithmX\Al
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EightQueens", "EightQueens\EightQueens.csproj", "{0FCC694C-1F10-46C0-8A82-E3191CF940E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniCrossword", "MiniCrossword\MiniCrossword.csproj", "{2BC019C9-F61D-4F6C-A5BD-62B045502CC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{0FCC694C-1F10-46C0-8A82-E3191CF940E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FCC694C-1F10-46C0-8A82-E3191CF940E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FCC694C-1F10-46C0-8A82-E3191CF940E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BC019C9-F61D-4F6C-A5BD-62B045502CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC019C9-F61D-4F6C-A5BD-62B045502CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC019C9-F61D-4F6C-A5BD-62B045502CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC019C9-F61D-4F6C-A5BD-62B045502CC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
