@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EightQueens", "EightQueens\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniCrossword", "MiniCrossword\MiniCrossword.csproj", "{2BC019C9-F61D-4F6C-A5BD-62B045502CC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku", "Sudoku\Sudoku.csproj", "{5A406286-D3F9-44AF-B18D-EA7B9CCA6996}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{2BC019C9-F61D-4F6C-A5BD-62B045502CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BC019C9-F61D-4F6C-A5BD-62B045502CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BC019C9-F61D-4F6C-A5BD-62B045502CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A406286-D3F9-44AF-B18D-EA7B9CCA6996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A406286-D3F9-44AF-B18D-EA7B9CCA6996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A406286-D3F9-44AF-B18D-EA7B9CCA6996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A406286-D3F9-44AF-B18D-EA7B9CCA6996}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

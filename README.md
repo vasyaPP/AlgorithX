@@ -6,3 +6,4 @@
 ## Samples
 * [Eight queens puzzle](./EightQueens)
 * [Mini-Crosswords](./MiniCrossword)
+* [Sudoku](./Sudoku)
