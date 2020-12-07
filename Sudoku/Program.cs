@@ -14,7 +14,7 @@ namespace Sudoku
             var input = File.ReadAllLines(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "sample_map.txt"));
             
             if (input.Length != SIZE)
-                throw new ArgumentException("Sudoku must has 9 rows!");
+                throw new ArgumentException("Sudoku must have 9 rows!");
             
             int[] sourceMap = new int[SIZE * SIZE];
             int sourceSolutionRows = 0;
