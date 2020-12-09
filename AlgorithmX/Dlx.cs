@@ -27,6 +27,9 @@ namespace AlgorithmX
             }
         }
 
+        public Dlx(int columns) : this(columns, columns)
+        { }
+
         public void AddRow(int rowIndex, IEnumerable<int> orderedColumns)
         {
             Node start = null;

@@ -124,7 +124,7 @@ namespace Sudoku
 
                     Console.ForegroundColor = !isSourceSolution ? ConsoleColor.Green : ConsoleColor.Black;
                     Console.Write(solutionNum);
-                    Console.ForegroundColor = ConsoleColor.Black;
+                    Console.ResetColor();
                     Console.Write((col + 1) % 3 == 0 ? "|" : " ");
                 }
                 
